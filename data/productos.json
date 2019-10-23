@@ -1,0 +1,478 @@
+{
+    "industrial": {
+      "nombre": "Línea Industrial",
+      "texto": "<p>Nuestros productos industriales tienen el objetivo de optimizar la eficiencia de su empresa o negocio en ampliaciones o renovaciones de espacios existentes.</p><p>En el área de productos industriales, cubrimos los más altos estándares de fabricación y cumplimos con las normas más exigentes de calidad que nos son requeridos por algunos de nuestros clientes.</p><p>Pemex ha sido uno de nuestros clientes más reconocidos, a quien con eficacia y eficiencia servimos durante un largo periodo. De igual forma, atendemos a Hospitales Privados y Públicos, lo que comprueba los altos estándares con los que trabajamos.</p>", 
+      "productos": [
+        {
+          "imagen": "q6CRWxz5Z.jpg",
+          "descripcion": "Industrial 2"
+        },
+        {
+          "imagen": "hkffAbhX5.jpg",
+          "descripcion": "Industrial 5"
+        },
+        {
+          "imagen": "gAaNDXqVp.jpg",
+          "descripcion": "Gabinete en acero "
+        },
+        {
+          "imagen": "5HPfh6NhV.jpg",
+          "descripcion": "Gabinete de fibra de vidrio con rack para panel solar"
+        },
+        {
+          "imagen": "re77t5qPv.jpg",
+          "descripcion": "Caja en acero inoxidable"
+        },
+        {
+          "imagen": "w6r53uPPE.jpg",
+          "descripcion": "Caja de fibra de vidrio y herrajes en acero inoxidable"
+        },
+        {
+          "imagen": "wS3ZNhpkt.jpg",
+          "descripcion": "Partes para ambulancia"
+        },
+        {
+          "imagen": "ZhZ5DT69g.jpg",
+          "descripcion": "Rack al muro para paneles solares"
+        },
+        {
+          "imagen": "k3hRTuPD5.jpg",
+          "descripcion": "Gabinetes en acero inoxidable"
+        },
+        {
+          "imagen": "nt54XvRTD.jpg",
+          "descripcion": "Parrillas Irving"
+        },
+        {
+          "imagen": "qtxezK7hF.jpg",
+          "descripcion": "Rack para paneles solares"
+        },
+        {
+          "imagen": "huzkz5Zyc.jpg",
+          "descripcion": "Zaguanes y puertas"
+        },
+        {
+          "imagen": "EsN2NSTKA.jpg",
+          "descripcion": "Piezas especiales en placa de aluminio"
+        },
+        {
+          "imagen": "7gYbsfHWR.jpg",
+          "descripcion": "Cajas en fibra de vidrio"
+        },
+        {
+          "imagen": "KaZqR5zgh.jpg",
+          "descripcion": "Gabinete con rack para paneles solares"
+        },
+        {
+          "imagen": "WZqR73cNy.jpg",
+          "descripcion": "Equipamiento interior de remolques"
+        },
+        {
+          "imagen": "guv6bCYHR.jpg",
+          "descripcion": "Mesa con logotipo en relieve"
+        },
+        {
+          "imagen": "Hauk3Xgc7.jpg",
+          "descripcion": "Separador de cables para C.F.E."
+        },
+        {
+          "imagen": "EU5pEH6x9.jpg",
+          "descripcion": "Soportes en fibra de vidrio"
+        },
+        {
+          "imagen": "hhRuRhuY6.jpg",
+          "descripcion": "Caja de carga en lamina de aluminio"
+        },
+        {
+          "imagen": "rR2R9Eqch.jpg",
+          "descripcion": "Techados industriales"
+        },
+        {
+          "imagen": "4NexRDWEx.jpg",
+          "descripcion": "Caja de composta en fibra de vidrio"
+        },
+        {
+          "imagen": "cSZacr3XU.jpg",
+          "descripcion": "Diseños especiales"
+        },
+        {
+          "imagen": "q7p2USUrn.jpg",
+          "descripcion": "Carrocería en fibra de vidrio"
+        },
+        {
+          "imagen": "Ek3P7ahnZ.jpg",
+          "descripcion": "Diseño y ejecución de rack para almacenamiento"
+        },
+        {
+          "imagen": "bhU5Kcqvs.jpg",
+          "descripcion": "Remolque #2"
+        },
+        {
+          "imagen": "gpgKzpwCD.jpg",
+          "descripcion": "Diseño en 3D"
+        },
+        {
+          "imagen": "UZqPxeutb.jpg",
+          "descripcion": "Señalamiento"
+        },
+        {
+          "imagen": "Ueqh46evU.jpg",
+          "descripcion": "Tubo en fibra de vidrio"
+        },
+        {
+          "imagen": "pfhsfEKSz.jpg",
+          "descripcion": "Porta bultos de correos de México"
+        },
+        {
+          "imagen": "DDHU6RgcK.jpg",
+          "descripcion": "Barra en acero inoxidable"
+        },
+        {
+          "imagen": "truRtKfWX.jpg",
+          "descripcion": "Postes de alumbrado público"
+        },
+        {
+          "imagen": "nhZrp5FXT.jpg",
+          "descripcion": "Estructura en acero inoxidable"
+        },
+        {
+          "imagen": "A37hNcSUA.jpg",
+          "descripcion": "Estructura triangular en acero inoxidable"
+        },
+        {
+          "imagen": "D7s4yfFUw.jpg",
+          "descripcion": "Bovedilla en fibra de vidrio"
+        },
+        {
+          "imagen": "9DpgHsHhh.jpg",
+          "descripcion": "Sistemas de iluminación solar"
+        },
+        {
+          "imagen": "6Vav9ZCAX.jpg",
+          "descripcion": "Muebles sobre diseño en acero inoxidable"
+        },
+        {
+          "imagen": "3zSw7s2Vc.jpg",
+          "descripcion": "Mesa de preparación en inoxidable"
+        },
+        {
+          "imagen": "RcgKhhHUC.jpg",
+          "descripcion": "Puesto de tacos en acero inoxidable"
+        },
+        {
+          "imagen": "Rwv24DZF2.jpg",
+          "descripcion": "Separador en fibra de vidrio para C.F.E."
+        },
+        {
+          "imagen": "aAf5apNV6.jpg",
+          "descripcion": "Piezas especiales doble acabado en fibra de vidrio"
+        },
+        {
+          "imagen": "chqUAcTa3.jpg",
+          "descripcion": "Postes unifica para C.F.E."
+        },
+        {
+          "imagen": "xf355ZsEr.jpg",
+          "descripcion": "Diseños en 3D"
+        },
+        {
+          "imagen": "CCWZFp9wC.jpg",
+          "descripcion": "Diseño de difusor en 3D"
+        }
+      ]
+    },
+    "comercial": {
+      "nombre": "Línea Comercial",
+      "texto": "<p>Nuestros productos comerciales tienen el objetivo de optimizar la eficiencia de su empresa o negocio, en ampliación o renovación de espacios existentes.</p><p>Proporcionamos innumerables posibilidades de diseño y estética, principalmente en espacios de esparcimiento, de recreación y en áreas infantiles.</p><p>Diseños con formas audaces de alta seguridad, resistencia y calidad sin perder la estética, con o sin recubrimiento en colores vivos y atractivos.</p><p>En el área de productos comerciales, nuestra empresa cubre los más altos estándares de fabricación y estética, garantizando la calidad de su producto y el respeto de exclusividad de su trabajo corporativo o de diseño personal.</p><p>Cumplimos con las normas más exigentes de calidad que nos son requeridos por nuestros clientes. Recorcholis, Pepsi, Coca-Cola, Casas GEO y Palacio de Hierro, entre otros, han depositado su confianza en nosotros.</p><p>Usted podrá obtener un plus para incrementar los ingresos de su empresa, comercio o negocio, adquiriendo nuestra amplia variedad en Chicleras, Montables motorizados y de resorte. Además, contamos con una extensa variedad de maniquíes.</p>", 
+      "productos": [
+        {
+          "imagen": "hYpZ6AFgc.jpg",
+          "descripcion": "Comercial 2"
+        },
+        {
+          "imagen": "R5kUUPXgX.jpg",
+          "descripcion": "Comercial 3"
+        },
+        {
+          "imagen": "RHa9hpRgt.jpg",
+          "descripcion": "Comercial 4"
+        },
+        {
+          "imagen": "ru7yNXgx9.jpg",
+          "descripcion": "Comercial 5"
+        },
+        {
+          "imagen": "5pvDeZ5Th.jpg",
+          "descripcion": "Logo para clínica"
+        },
+        {
+          "imagen": "tRpHhWCqH.jpg",
+          "descripcion": "Casco de Dj"
+        },
+        {
+          "imagen": "HwpukwxgU.jpg",
+          "descripcion": "Maletero en fibra de vidrio"
+        },
+        {
+          "imagen": "vqeFssexy.jpg",
+          "descripcion": "Exhibidor de bicicletas"
+        },
+        {
+          "imagen": "tnunDwXqA.jpg",
+          "descripcion": "Remolques de carga"
+        },
+        {
+          "imagen": "kcXF6wWKk.jpg",
+          "descripcion": "Chiclera personalizada para empresas"
+        },
+        {
+          "imagen": "TxC4A7gW9.jpg",
+          "descripcion": "Base para pasta y cepillos infantiles"
+        },
+        {
+          "imagen": "AxyeyURXw.jpg",
+          "descripcion": "Pantallas para rocolas"
+        },
+        {
+          "imagen": "VwXa3rAX3.jpg",
+          "descripcion": "Cabeza para botarga"
+        },
+        {
+          "imagen": "Axw2NSZhp.jpg",
+          "descripcion": "Resin casings"
+        },
+        {
+          "imagen": "gbhAbfvFn.jpg",
+          "descripcion": "Figuras en fibra de vidrio"
+        },
+        {
+          "imagen": "zYTwtFVfT.jpg",
+          "descripcion": "Carcachita para montable"
+        },
+        {
+          "imagen": "kSaYZafp6.jpg",
+          "descripcion": "Carrito para montable"
+        },
+        {
+          "imagen": "3rhZRKWTK.jpg",
+          "descripcion": "Montable eléctrico"
+        },
+        {
+          "imagen": "xRUDfR3Hu.jpg",
+          "descripcion": "Figura en fibra de vidrio para promocionar donas "
+        },
+        {
+          "imagen": "7x7YpWT5F.jpg",
+          "descripcion": "Montable con rana"
+        },
+        {
+          "imagen": "4CqKcXKhe.jpg",
+          "descripcion": "Rack exhibidor para bicicletas"
+        },
+        {
+          "imagen": "3r5KFgYVn.jpg",
+          "descripcion": "Basurero en fibra de vidrio"
+        },
+        {
+          "imagen": "nxKC3Xy5P.jpg",
+          "descripcion": "Carrocería para montable"
+        },
+        {
+          "imagen": "H9bR2sc36.jpg",
+          "descripcion": "Displays para expo"
+        },
+        {
+          "imagen": "rNCch5AVa.jpg",
+          "descripcion": "Modelos a escala"
+        },
+        {
+          "imagen": "TTRaTuzfa.jpg",
+          "descripcion": "Mesa de bar en acero inoxidable"
+        },
+        {
+          "imagen": "r3gS2weHh.jpg",
+          "descripcion": "Baño María en acero inoxidable"
+        },
+        {
+          "imagen": "Fv4gRu2ks.jpg",
+          "descripcion": "Bovedilla en fibra de vidrio"
+        },
+        {
+          "imagen": "XeXDH4rsP.jpg",
+          "descripcion": "Mesa en aluminio anodizado"
+        }
+      ]
+    },
+    "decorativo": {
+      "nombre": "Línea de Decorativos",
+      "texto": "<p>Nuestros productos decorativos se destacan por su excelente diseño y funcionalidad. Son la mejor solución para desarrollar ambientes confortables en oficinas, hospitales, interiores comerciales y salones de clase, entre otros.</p><p>Sea cual se la necesidad del proyecto, ofrecemos soluciones versátiles y eficaces en la generación de ambientes agradables para vivir y trabajar.</p><p>En la galería de artículos para la Decoración de su Hogar o Negocio, usted puede adquirir diseños originales e innovadores en: Lámparas, Maceteros, Fuentes, Bancas, Mesas para Jardín, Mingitorios (en formas innovadoras) y Jaulas para aves entre otros muchos productos elaborados con el material de la más alta calidad.</p>", 
+      "productos": [
+        {
+          "imagen": "uhy9kCDxz.jpg",
+          "descripcion": "Decorativo 2"
+        },
+        {
+          "imagen": "hgN4DYPZA.jpg",
+          "descripcion": "Decorativo 3"
+        },
+        {
+          "imagen": "fFhefkCau.jpg",
+          "descripcion": "Decorativo 4"
+        },
+        {
+          "imagen": "taHhAactX.jpg",
+          "descripcion": "Decorativo 5"
+        },
+        {
+          "imagen": "WfNs556Wf.jpg",
+          "descripcion": "Lampara sol y luna"
+        },
+        {
+          "imagen": "pkrRFwuap.jpg",
+          "descripcion": "Sillón en fibra de vidrio, tapizado de piel"
+        },
+        {
+          "imagen": "eUbrnCPZV.jpg",
+          "descripcion": "Cama Rayo McQueen"
+        },
+        {
+          "imagen": "vrEFabexE.jpg",
+          "descripcion": "Silla decorada en aerografía"
+        },
+        {
+          "imagen": "3ZckWrYFk.jpg",
+          "descripcion": "Base y sillas en fibra de vidrio"
+        },
+        {
+          "imagen": "ETzUukYNX.jpg",
+          "descripcion": "Figura en fibra de vidrio"
+        },
+        {
+          "imagen": "xWXss6PpP.jpg",
+          "descripcion": "Tabique aparente en fibra de vidrio"
+        },
+        {
+          "imagen": "H5SAbvPnW.jpg",
+          "descripcion": "Paleta de fibra de vidrio decorada en aerografía"
+        },
+        {
+          "imagen": "z739N3e2X.jpg",
+          "descripcion": "Decorado en aerografía"
+        },
+        {
+          "imagen": "TFYA4x44k.jpg",
+          "descripcion": "Vaciado de resina decorado en aerografía"
+        },
+        {
+          "imagen": "tW5zV4HDZ.jpg",
+          "descripcion": "Pantallas para lamparas"
+        },
+        {
+          "imagen": "DVhU2WWyg.jpg",
+          "descripcion": "Letrero en fibra de vidrio decorado"
+        },
+        {
+          "imagen": "pH5RUUnHK.jpg",
+          "descripcion": "Figura huevo en fibra de vidrio"
+        },
+        {
+          "imagen": "pUA4633ED.jpg",
+          "descripcion": "Silla en fibra de vidrio decorada"
+        },
+        {
+          "imagen": "seV69qSFh.jpg",
+          "descripcion": "Flamingo en fibra de vidrio decorado"
+        },
+        {
+          "imagen": "psPyzsHPY.jpg",
+          "descripcion": "Sillón en fibra de vidrio de dos plazas"
+        },
+        {
+          "imagen": "4KKaZ7R2A.jpg",
+          "descripcion": "Sillón en suede"
+        },
+        {
+          "imagen": "vsb7hbVE3.jpg",
+          "descripcion": "Tortuguero decorado"
+        },
+        {
+          "imagen": "b2YchCNZa.jpg",
+          "descripcion": "Modelos a escala"
+        },
+        {
+          "imagen": "VCE7H7a2h.jpg",
+          "descripcion": "Banca en acero inoxidable"
+        },
+        {
+          "imagen": "VN9zwqYHZ.jpg",
+          "descripcion": "Mesas de servicio"
+        }
+      ]
+    },
+    "escolar": {
+      "nombre": "Línea Escolar",
+      "texto": "<p>Nuestros productos escolares son la perfecta combinación entre funcionalidad y estética, cubriendo por completo las necesidades de salones de clase, patios de escuela y áreas recreativas en guarderías, kinders y gimnasios infantiles, incluso en parques acuáticos.</p><p>Los productos escolares son una de nuestras especialidades, es por ello que usted podrá elegir entre una amplia variedad de figuras originales para depósitos de basura, pupitres en fibra de vidrio y base tubular, artículos personalizados con el logotipo de su empresa o institución, mesas de trabajo para comedor escolar, laboratorio de cómputo, área de patios: resbaladillas, juegos modulares, laberintos y carruseles.</p>", 
+      "productos": [
+        {
+          "imagen": "SZU7quH6z.jpg",
+          "descripcion": "Escolar 1"
+        },
+        {
+          "imagen": "z3NS94Ff2.jpg",
+          "descripcion": "Escolar 2"
+        },
+        {
+          "imagen": "UCNhpwfk3.jpg",
+          "descripcion": "Escolar 3"
+        },
+        {
+          "imagen": "scYAP957t.jpg",
+          "descripcion": "Escolar 4"
+        },
+        {
+          "imagen": "hwhXSA2sb.jpg",
+          "descripcion": "Escolar 5"
+        },
+        {
+          "imagen": "rcZHXh2z9.jpg",
+          "descripcion": "Techados para escuelas"
+        },
+        {
+          "imagen": "CEA3ycFkt.jpg",
+          "descripcion": "Botes decorados en aerografía"
+        },
+        {
+          "imagen": "PSgYXfwC7.jpg",
+          "descripcion": "Modelo a escala"
+        },
+        {
+          "imagen": "FUA22cWhc.jpg",
+          "descripcion": "Silla de fibra de vidrio decorada en aerografía"
+        },
+        {
+          "imagen": "3crAYCVTf.jpg",
+          "descripcion": "Tambo para basurero decorado "
+        },
+        {
+          "imagen": "5VyDPbNvY.jpg",
+          "descripcion": "Tambo para basurero decorado BOB"
+        },
+        {
+          "imagen": "PYqHctkR7.jpg",
+          "descripcion": "Carrusel #4"
+        },
+        {
+          "imagen": "RuKxSW5v3.jpg",
+          "descripcion": "Escenario para eventos escolares"
+        },
+        {
+          "imagen": "tRuyxRwKA.jpg",
+          "descripcion": "Figuras para basureros"
+        },
+        {
+          "imagen": "pbE272Uks.jpg",
+          "descripcion": "Librero de preescolar"
+        }
+      ]
+    }
+  }
