@@ -18,28 +18,28 @@
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img class="d-block w-100" src="images/slider7.jpg">
+            <img class="d-block w-100" src="assets/img/slider/slider7.jpg">
             </div>
             <div class="carousel-item">
-            <img class="d-block w-100" src="images/slider6.jpg">
+            <img class="d-block w-100" src="assets/img/slider/slider6.jpg">
             </div>
             <div class="carousel-item">
-            <img class="d-block w-100" src="images/slider1.jpg">
+            <img class="d-block w-100" src="assets/img/slider/slider1.jpg">
             </div>
             <div class="carousel-item">
-            <img class="d-block w-100" src="images/slider5.jpg">
+            <img class="d-block w-100" src="assets/img/slider/slider5.jpg">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/slider8.jpg">
+                <img class="d-block w-100" src="assets/img/slider/slider8.jpg">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/slider9.jpg">
+                <img class="d-block w-100" src="assets/img/slider/slider9.jpg">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/slider10.jpg">
+                <img class="d-block w-100" src="assets/img/slider/slider10.jpg">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/slider11.jpg">
+                <img class="d-block w-100" src="assets/img/slider/slider11.jpg">
             </div>
         </div>
 
@@ -66,7 +66,7 @@
             </div>
 
             <div class="col-12 col-md-4 d-none d-md-block">
-                <img src="images/logoimagen.jpg" alt="" class="img-fluid img-web">
+                <img src="./assets/img/logoimagen.jpg" alt="" class="img-fluid img-web">
             </div>
             
             <div class="col-12 col-md-8">
@@ -87,7 +87,7 @@
 
 
 
-<script>
+<!-- <script>
     // Variables que debes cambiar por las tuyas.
     var key       = 'AIzaSyDM7WX75p23MW9_B3pY_KjAQrLJd3ITIP8';
     var channelId = 'UCWuMswUIiiTkNc7jDoS9SYg';
@@ -97,7 +97,10 @@
     function hacerGet(key, channelId, cuantos)
     {    
         var xmlHttp = new XMLHttpRequest();
-        xmlHttp.open( "GET", 'https://www.googleapis.com/youtube/v3/search?key='+key+'&channelId='+channelId+'&part=snippet%2Cid&order=date&maxResults='+cuantos, false );
+        let ruta = 'https://www.googleapis.com/youtube/v3/search?key='+key+'&channelId='+channelId+'&part=snippet%2Cid&order=date&maxResults='+cuantos;
+        console.log(ruta);
+
+        xmlHttp.open( "GET", ruta, false );
         xmlHttp.send( null );
         var datos = JSON.parse(xmlHttp.responseText)
         return datos.items;
@@ -113,6 +116,6 @@
     // Llamamos a la función crear videos con el DIV: videoslist
     var arrayVideos = hacerGet(key, channelId, cuantos);
     crearVideos( arrayVideos, 'videoslist', 'col-6  col-md-3');
-</script>
+</script> -->
 
 <?php include("footer.php"); ?>

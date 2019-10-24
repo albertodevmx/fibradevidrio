@@ -41,10 +41,6 @@ else {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php echo ($es) ? 'Proyectos en Fibra de Vidrio' : 'Projects in Fiberglass'; ?></title>
-    
-    <!-- <link href="https://file.myfontastic.com/pmsTpc7QKrjw79e3MhHZSf/icons.css" rel="stylesheet"> -->
-    <script src="https://kit.fontawesome.com/ed16a084b6.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -98,16 +94,16 @@ else {
     <!-- =========================      REDES SOCIALES      ================================ -->
     <div class="encabezado__redessociales" style="display: block; position: fixed; top: 350px; right: 0px; z-index: 999; background: rgba(255, 255, 255, 0.5); border: #333 1px solid; border-right: 0px; padding: 5px; border-radius: 5px 0px 0px 5px;">
             <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://www.facebook.com/FIBRADEVIDRIO14">
-                <i class="fab fa-facebook"></i>
+                <i class="icon icon-facebook-square"></i>
             </a>
             <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://twitter.com/fibradevidriomx">
-                <i class="fab fa-twitter"></i>
+                <i class="icon icon-twitter"></i>
             </a>
             <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://www.youtube.com/channel/UCWuMswUIiiTkNc7jDoS9SYg">
-                <i class="fab fa-youtube"></i>
+                <i class="icon icon-youtube-square"></i>
             </a>
             <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://api.whatsapp.com/send?phone=5215523342258">
-                <i class="fab fa-whatsapp"></i>
+                <i class="icon icon-whatsapp"></i>
             </a>
     </div>
 
@@ -117,37 +113,37 @@ else {
             <div class="container">
 
                     <div class="row p-3">
-                        <div class="col-lg-4 col-md-6 encabezado__logo">
+                        <div class="col-lg-4 col-md-6 text-center encabezado__logo">
                             <a href="index.php">
-                                <img src="images/logo_metalico.png" alt="">
+                                <img src="assets/img/logo_metalico.png" alt="" class="mt-3 w-75">
                             </a>
 
-                            <div class="encabezado__leyenda">
-                                <p><?php echo ($es) ? 'Hacemos realidad su proyecto...' : 'We make your project a reality...' ?></p>
+                            <div class="text-danger encabezado__leyenda font-weight-bold font-italic mt-3 mb-3">
+                                <?php echo ($es) ? 'Hacemos realidad su proyecto...' : 'We make your project a reality...' ?>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-8 col-md-6 align-self-center encabezado__direccion d-none d-md-block">
+                        <div class="col-lg-8 col-md-6 align-self-center d-none d-md-block text-center text-md-right encabezado__direccion">
                                 <p class="align-self-center">
                                 
                                         <?php if ($es) { ?>
-                                                <i class="fas fa-map-marker-alt"></i> Av. Vicente Villada No. 481,  
+                                                <i class="text-danger icon icon-map-marker"></i> Av. Vicente Villada No. 481,  
                                                 Col. Benito Juárez, <br>
                                                 Cd. Nezahualcóyotl.  Estado de México C.P. 57000<br>
 
-                                                <i class="fas fa-phone-alt"></i>(55) 5731-6223 y (55) 1108-4472<br>
-                                                <i class="fas fa-mobile-alt"></i>Cel: 55 2334-2258<br>
-                                                <i class="fas fa-envelope"></i>cesar_3r@hotmail.com
+                                                <i class="text-danger icon icon-call-phone"></i> (55) 5731-6223 y (55) 1108-4472<br>
+                                                <i class="text-danger icon icon-mobile"></i> (55) 2334-2258<br>
+                                                <i class="text-danger icon icon-envelope"></i> cesar_3r@hotmail.com
                                         <?php } else { ?>
                                         
-                                                <i class="fas fa-map-marker-alt"></i> Vicente Villada Avenue No. 481,  
+                                                <i class="text-danger icon icon-map-marker"></i> Vicente Villada Avenue No. 481,  
                                                 Colonia Benito Juárez, <br>
                                                 Nezahualcóyotl City.  State of México C.P. 57000<br>
 
-                                                <i class="fas fa-phone-alt"></i>(55) 5731-6223 y (55) 1108-4472<br>
-                                                <i class="fas fa-mobile-alt"></i>Cell: 055 2334-2258<br>
-                                                <i class="fas fa-envelope"></i>cesar_3r@hotmail.com
+                                                <i class="text-danger icon icon-call-phone"></i> (55) 5731-6223 y (55) 1108-4472<br>
+                                                <i class="text-danger icon icon-mobile"></i> Cell: 055 2334-2258<br>
+                                                <i class="text-danger icon icon-envelope"></i> cesar_3r@hotmail.com
 
                                         <?php } ?>
                                 </p>
