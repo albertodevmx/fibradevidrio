@@ -42,7 +42,8 @@ else {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php echo ($es) ? 'Proyectos en Fibra de Vidrio' : 'Projects in Fiberglass'; ?></title>
     
-    <link href="https://file.myfontastic.com/pmsTpc7QKrjw79e3MhHZSf/icons.css" rel="stylesheet">
+    <!-- <link href="https://file.myfontastic.com/pmsTpc7QKrjw79e3MhHZSf/icons.css" rel="stylesheet"> -->
+    <script src="https://kit.fontawesome.com/ed16a084b6.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -92,6 +93,26 @@ else {
     </nav>
 
 
+
+
+    <!-- =========================      REDES SOCIALES      ================================ -->
+    <div class="encabezado__redessociales" style="display: block; position: fixed; top: 350px; right: 0px; z-index: 999; background: rgba(255, 255, 255, 0.5); border: #333 1px solid; border-right: 0px; padding: 5px; border-radius: 5px 0px 0px 5px;">
+            <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://www.facebook.com/FIBRADEVIDRIO14">
+                <i class="fab fa-facebook"></i>
+            </a>
+            <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://twitter.com/fibradevidriomx">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://www.youtube.com/channel/UCWuMswUIiiTkNc7jDoS9SYg">
+                <i class="fab fa-youtube"></i>
+            </a>
+            <a style="display: block; margin: 0px; padding: 3px; line-height: 0.8em;" class="text-center" target="_blank" href="https://api.whatsapp.com/send?phone=5215523342258">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+    </div>
+
+
+
     <div class="container-fluid bg-light shadow" style="padding-top: 56px;">
             <div class="container">
 
@@ -107,33 +128,26 @@ else {
                         </div>
 
 
-                        <div class="col-lg-3 col-md-6 align-self-center text-center encabezado__redessociales">
-                                <a target="_blank" href="https://www.facebook.com/FIBRADEVIDRIO14" class="icon-facebook-circled"></a>
-                                <a target="_blank" href="https://twitter.com/fibradevidriomx" class="icon-twitter-circled"></a>
-                                <a target="_blank" href="https://www.youtube.com/channel/UCWuMswUIiiTkNc7jDoS9SYg" class="icon-youtube-square"></a>
-                        </div>
-
-
-                        <div class="col-md-5 align-self-center encabezado__direccion d-none d-md-block">
+                        <div class="col-lg-8 col-md-6 align-self-center encabezado__direccion d-none d-md-block">
                                 <p class="align-self-center">
                                 
                                         <?php if ($es) { ?>
-                                                <i class="icon-map-marker"></i>Av. Vicente Villada No. 481,  
+                                                <i class="fas fa-map-marker-alt"></i> Av. Vicente Villada No. 481,  
                                                 Col. Benito Juárez, <br>
                                                 Cd. Nezahualcóyotl.  Estado de México C.P. 57000<br>
 
-                                                <i class="icon-phone"></i>(01 55) 5731-6223 y (01 55) 1108-4472<br>
-                                                <i class="icon-mobile"></i>Cel: 04455 2334-2258<br>
-                                                <i class="icon-mail"></i>cesar_3r@hotmail.com
+                                                <i class="fas fa-phone-alt"></i>(55) 5731-6223 y (55) 1108-4472<br>
+                                                <i class="fas fa-mobile-alt"></i>Cel: 55 2334-2258<br>
+                                                <i class="fas fa-envelope"></i>cesar_3r@hotmail.com
                                         <?php } else { ?>
                                         
-                                                <i class="icon-map-marker"></i>Vicente Villada Avenue No. 481,  
+                                                <i class="fas fa-map-marker-alt"></i> Vicente Villada Avenue No. 481,  
                                                 Colonia Benito Juárez, <br>
                                                 Nezahualcóyotl City.  State of México C.P. 57000<br>
 
-                                                <i class="icon-phone"></i>(01 55) 5731-6223 y (01 55) 1108-4472<br>
-                                                <i class="icon-mobile"></i>Cell: 04455 2334-2258<br>
-                                                <i class="icon-mail"></i>cesar_3r@hotmail.com
+                                                <i class="fas fa-phone-alt"></i>(55) 5731-6223 y (55) 1108-4472<br>
+                                                <i class="fas fa-mobile-alt"></i>Cell: 055 2334-2258<br>
+                                                <i class="fas fa-envelope"></i>cesar_3r@hotmail.com
 
                                         <?php } ?>
                                 </p>
