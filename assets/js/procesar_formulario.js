@@ -17,7 +17,8 @@ var encabezado                          = {};
     encabezado.remitente_nombre         = "Mi Sitio Web";
     encabezado.remitente_mail           = "no-reply@proyectosenfibradevidrio.com";
     encabezado.destinatario_nombre      = "Web Proyectos en Fibra de Vidrio";
-    encabezado.destinatario_mail        = "cesar_3r@hotmail.com";
+    // encabezado.destinatario_mail        = "cesar_3r@hotmail.com";
+    encabezado.destinatario_mail        = "alheranx@hotmail.com";
 
 var mensaje_de_exito = "Su mensaje se ha envíado correctamente.";
 var mensaje_sin_campos = "Debe llenar todos los campos marcados como obligatorios";
@@ -61,7 +62,7 @@ function enviarFormulario(campos, encabezado) {
             console.log(xhttp.responseText);
         }
     };
-    xhttp.open("POST", "http://hmedia.mx/sendgrid/mail.php", true);
+    xhttp.open("POST", "htt://35.185.31.208/hmedia.mx/sendgrid/mail.php", true);
     //xhttp.open("POST", "mail.php", true);
     xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=utf-8");
     xhttp.send( "campos="+JSON.stringify(campos)+"&encabezado="+JSON.stringify(encabezado) );
