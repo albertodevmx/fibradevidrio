@@ -1,11 +1,11 @@
 <?php include("header.php"); ?>
 
     <!-- =========================      MAIN           ================================ -->
-    <div class="container main">
+    <div class="container pt-3 pb-5 mb-3 mb-md-5">
 
         <div class="row pt-3 pb-3">
             <div class="col-12">
-                <h2><?php echo ($es) ? 'Videoteca' : 'Video library'; ?></h2>
+                <h2 class="text-danger subrayado p-2 mb-5"><?php echo ($es) ? 'Videoteca' : 'Video library'; ?></h2>
                 <p><?php echo ($es) ? 'Hemos preparado una serie de videos que muestran nuestro trabajo, esperamos sean de su agrado.' : 'We have prepared a series of videos that show our work, we hope they are to your liking.'; ?></p>
             </div>
         </div>

@@ -62,7 +62,7 @@
         <div class="row pt-3 pb-3 mt-3">
 
             <div class="col-12">
-                <h2><?php echo ($es) ? 'Bienvenidos a I.P.F.V., Ingeniería y Proyectos en Fibra de Vidrio' : 'Welcome to I.P.F.V., Engineering and Projects in Fiberglass'; ?></h2>
+                <h2 class="text-danger subrayado p-2 mb-5"><?php echo ($es) ? 'Bienvenidos a I.P.F.V., Ingeniería y Proyectos en Fibra de Vidrio' : 'Welcome to I.P.F.V., Engineering and Projects in Fiberglass'; ?></h2>
             </div>
 
             <div class="col-12 col-md-4 d-none d-md-block">

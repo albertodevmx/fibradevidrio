@@ -2,7 +2,7 @@
     <div id="contacto" class="container">
         <div class="row pt-3 pb-3">
 
-            <div class="col-md-4 mb-5 mb-md-3 pie__formulario">
+            <div class="col-md-4 mb-5 mb-md-3 p-0 p-md-3 pie__formulario">
                 <form action="enviar.php" method="post" enctype="multipart/form-data" id="hm-formulario">
 
                     <div class="form-group m-2">
@@ -36,7 +36,7 @@
             </div>
 
 
-            <div class="col-md-4 pie__mapa">
+            <div class="col-md-4 p-0 p-md-3 pie__mapa">
                 <iframe class="w-100 p-2 bg-light" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1881.656850109799!2d-99.00868601718348!3d19.398847388072184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e32c057b63ad%3A0x4d9412db4a310bfa!2sINGENIER%C3%8DA+Y+PROYECTOS+EN+FIBRA+DE+VIDRIO!5e0!3m2!1ses!2smx!4v1451367122971" frameborder="0" allowfullscreen></iframe>
             </div>
 
@@ -87,9 +87,9 @@
 
 </body>
 
-<script src="./node_modules/jquery/dist/jquery.slim.min.js"></script>
+<script src="./node_modules/jquery/dist/jquery.min.js"></script>
 <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="./assets/js/scripts.js"></script>
 <script src="./assets/js/procesar_formulario.js"></script>
+<script src="./assets/js/scripts.js"></script>
 
 </html>

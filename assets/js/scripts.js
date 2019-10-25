@@ -5,6 +5,14 @@ $(document).ready(function() {
         console.log("Me encontraste");
         $("html, body").animate({ scrollTop: $('#contacto').offset().top }, 1000);
     });
+
+
+    var cargarDatos = function(titulo, foto) {
+        var tituloDom = document.getElementById('exampleModalLongTitle');
+        var imagenDom = document.getElementById('imagenModal');
+        tituloDom.innerHTML = titulo;
+        imagenDom.src = "subidas/" + foto;
+    }
 });
 
 $('.carousel').carousel({

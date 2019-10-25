@@ -142,7 +142,7 @@ else {
                                                 Nezahualcóyotl City.  State of México C.P. 57000<br>
 
                                                 <i class="text-danger icon icon-call-phone"></i> (55) 5731-6223 y (55) 1108-4472<br>
-                                                <i class="text-danger icon icon-mobile"></i> Cell: 055 2334-2258<br>
+                                                <i class="text-danger icon icon-mobile"></i> (55) 2334-2258<br>
                                                 <i class="text-danger icon icon-envelope"></i> cesar_3r@hotmail.com
 
                                         <?php } ?>
