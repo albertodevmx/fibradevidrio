@@ -3,7 +3,7 @@
         <div class="row pt-3 pb-3">
 
             <div class="col-md-4 mb-5 mb-md-3 p-0 p-md-3 pie__formulario">
-                <form action="enviar.php" method="post" enctype="multipart/form-data" id="hm-formulario">
+                <form action="#" method="post" enctype="multipart/form-data" id="hm-formulario">
 
                     <div class="form-group m-2">
                         <input type="text" class="form-control" id="nombre" name="nombre" placeholder="<?php echo ($es) ? 'Ingrese nombre...' : 'Enter name ...'; ?>">
@@ -26,7 +26,7 @@
                     </div>
 
                     <div class="form-group m-2">
-                        <div id="status" class="alert alert-success "></div>
+                        <div id="status" class="alert alert-success"></div>
 
                         <button type="button" class="btn btn-danger border-light mb-2" onclick="procesarFormulario()">
                             <?php echo ($es) ? 'Enviar mensaje' : 'Send Message'; ?>
