@@ -81,7 +81,13 @@ else {
 
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                        <?php echo ($es) ? '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=en">English version</a>' : '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=es">Versión en español</a>' ?>
+                        <?php
+                            if(     isset( $_GET['cat'])    )    {
+                                echo ($es) ? '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=en&cat='.$_GET['cat'].'">English version</a>' : '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=es&cat='.$_GET['cat'].'">Versión en español</a>'; 
+                            } else {
+                                echo ($es) ? '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=en">English version</a>' : '<a class="nav-link" href="'.$_SERVER['PHP_SELF'].'?lang=es">Versión en español</a>'; 
+                            }
+                        ?>
                 </li>
             </ul>
         
