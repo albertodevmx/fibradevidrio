@@ -7,13 +7,20 @@ $(document).ready(function() {
     });
 
 
-    var cargarDatos = function(titulo, foto) {
-        var tituloDom = document.getElementById('exampleModalLongTitle');
-        var imagenDom = document.getElementById('imagenModal');
-        tituloDom.innerHTML = titulo;
-        imagenDom.src = "subidas/" + foto;
-    }
+    
 });
+
+var cargarDatos = function(titulo, foto) {
+    console.log("titulo: ", titulo);
+    console.log("foto: ", foto);
+
+    var tituloDom = document.getElementById('exampleModalLongTitle');
+    var imagenDom = document.getElementById('imagenModal');
+    tituloDom.innerHTML = titulo;
+    imagenDom.src = "subidas/" + foto;
+
+    console.log(imagenDom.src)
+}
 
 $('.carousel').carousel({
     interval: 2000
