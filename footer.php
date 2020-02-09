@@ -52,7 +52,6 @@
 
                     <p>
                         <i class="icon icon-call-phone"></i> (55) 5731-6223, <br class="d-none d-md-block">
-                        <i class="icon icon-call-phone"></i> (55) 1108-4472 <br class="d-none d-md-block">
                         <i class="icon-mobile"></i> (55) 2334-2258<br>
                         <i class="icon icon-envelope"></i> cesar_3r@hotmail.com
                     </p>
