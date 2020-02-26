@@ -73,7 +73,7 @@ else {
                         <a class="dropdown-item" href="productos.php?cat=escolar"><?php echo ($es) ? 'Línea Escolar' : 'School Line'; ?></a>
                     </div>
                 </li>
-
+                <li class="nav-item"><a class="nav-link" href="proyectos.php"><?php echo ($es) ? 'Proyectos Especiales' : 'Special Projects'; ?></a></li>
                 <li class="nav-item"><a class="nav-link" href="videoteca.php"><?php echo ($es) ? 'Videoteca' : 'Video library'; ?></a></li>
                 <li class="nav-item"><a class="nav-link enlacecontacto" href="#contacto"><?php echo ($es) ? 'Contacto' : 'Contact'; ?></a></li>
             </ul>

@@ -26,12 +26,12 @@ $('.carousel').carousel({
     interval: 2000
 });
 
-$('.carousel-control-prev').click(function() {
-    console.log("PREV");
-    $('#carouselExampleSlidesOnly').carousel('prev');
-});
+// $('.carousel-control-prev').click(function() {
+//     console.log("PREV");
+//     $('#carouselExampleSlidesOnly').carousel('prev');
+// });
 
-$('.carousel-control-next').click(function() {
-    console.log("NEXT");
-    $('#carouselExampleSlidesOnly').carousel('next');
-});
+// $('.carousel-control-next').click(function() {
+//     console.log("NEXT");
+//     $('#carouselExampleSlidesOnly').carousel('next');
+// });
