@@ -2,9 +2,9 @@
     "proyectos" : [
         {
             "id": "06", 
-            "titulo": "Proyecto 6",
-            "title": "Project 6",
-            "descripcion": "<p>Descripción Proyecto 6.</p>", 
+            "titulo": "KidZania",
+            "title": "KidZania",
+            "descripcion": "<p>En Ingeniería y Proyectos en Fibra de Vidrio, aplicamos PINTURA ELECTROSTÁTICA,para un acabado de primera y mayor durabilidad. Gracias KidZania por seguir confiando en Nosotros.</p>", 
             "description": "<p>Project description 6.</p>", 
             "fotos": [
                 {

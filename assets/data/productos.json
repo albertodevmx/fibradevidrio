@@ -4,6 +4,58 @@
       "texto": "<p>Nuestros productos industriales tienen el objetivo de optimizar la eficiencia de su empresa o negocio en ampliaciones o renovaciones de espacios existentes.</p><p>En el área de productos industriales, cubrimos los más altos estándares de fabricación y cumplimos con las normas más exigentes de calidad que nos son requeridos por algunos de nuestros clientes.</p><p>Pemex ha sido uno de nuestros clientes más reconocidos, a quien con eficacia y eficiencia servimos durante un largo periodo. De igual forma, atendemos a Hospitales Privados y Públicos, lo que comprueba los altos estándares con los que trabajamos.</p>", 
       "productos": [
         {
+          "imagen":"industrial_1.jpg", 
+          "descripcion": "Industrial 1"
+        }, 
+        {
+          "imagen":"industrial_2.jpg", 
+          "descripcion": "Industrial 2"
+        }, 
+        {
+          "imagen":"industrial_3.jpg", 
+          "descripcion": "Industrial 3"
+        }, 
+        {
+          "imagen":"industrial_4.jpg", 
+          "descripcion": "Industrial 4"
+        }, 
+        {
+          "imagen":"industrial_5.jpg", 
+          "descripcion": "Industrial 5"
+        }, 
+        {
+          "imagen":"industrial_6.jpg", 
+          "descripcion": "Industrial 6"
+        }, 
+        {
+          "imagen":"industrial_7.jpg", 
+          "descripcion": "Industrial 7"
+        }, 
+        {
+          "imagen":"industrial_8.jpg", 
+          "descripcion": "Industrial 8"
+        }, 
+        {
+          "imagen":"industrial_9.jpg", 
+          "descripcion": "Industrial 9"
+        }, 
+        {
+          "imagen":"industrial_10.jpg", 
+          "descripcion": "Industrial 10"
+        }, 
+        {
+          "imagen":"industrial_11.jpg", 
+          "descripcion": "Industrial 11"
+        }, 
+        {
+          "imagen":"industrial_12.jpg", 
+          "descripcion": "Industrial 12"
+        }, 
+        {
+          "imagen":"industrial_13.jpg", 
+          "descripcion": "Industrial 13"
+        }, 
+        {
           "imagen": "q6CRWxz5Z.jpg",
           "descripcion": "Industrial 2"
         },
@@ -92,14 +144,6 @@
           "descripcion": "Caja de composta en fibra de vidrio"
         },
         {
-          "imagen": "cSZacr3XU.jpg",
-          "descripcion": "Diseños especiales"
-        },
-        {
-          "imagen": "q7p2USUrn.jpg",
-          "descripcion": "Carrocería en fibra de vidrio"
-        },
-        {
           "imagen": "Ek3P7ahnZ.jpg",
           "descripcion": "Diseño y ejecución de rack para almacenamiento"
         },
@@ -185,6 +229,30 @@
       "nombre": "Línea Comercial",
       "texto": "<p>Nuestros productos comerciales tienen el objetivo de optimizar la eficiencia de su empresa o negocio, en ampliación o renovación de espacios existentes.</p><p>Proporcionamos innumerables posibilidades de diseño y estética, principalmente en espacios de esparcimiento, de recreación y en áreas infantiles.</p><p>Diseños con formas audaces de alta seguridad, resistencia y calidad sin perder la estética, con o sin recubrimiento en colores vivos y atractivos.</p><p>En el área de productos comerciales, nuestra empresa cubre los más altos estándares de fabricación y estética, garantizando la calidad de su producto y el respeto de exclusividad de su trabajo corporativo o de diseño personal.</p><p>Cumplimos con las normas más exigentes de calidad que nos son requeridos por nuestros clientes. Recorcholis, Pepsi, Coca-Cola, Casas GEO y Palacio de Hierro, entre otros, han depositado su confianza en nosotros.</p><p>Usted podrá obtener un plus para incrementar los ingresos de su empresa, comercio o negocio, adquiriendo nuestra amplia variedad en Chicleras, Montables motorizados y de resorte. Además, contamos con una extensa variedad de maniquíes.</p>", 
       "productos": [
+        {
+          "imagen":"comercial_5.jpg", 
+          "descripcion":"Hulk"
+        }, 
+        {
+          "imagen":"comercial_6.jpg", 
+          "descripcion":"Lockers Kidzania"
+        }, 
+        {
+          "imagen":"comercial_1.jpg", 
+          "descripcion":"Comercial 1"
+        }, 
+        {
+          "imagen":"comercial_2.jpg", 
+          "descripcion":"Recorcholis"
+        }, 
+        {
+          "imagen":"comercial_3.jpg", 
+          "descripcion":"Comercial 3"
+        }, 
+        {
+          "imagen":"comercial_4.jpg", 
+          "descripcion":"Jaboneras para Gimnasio"
+        }, 
         {
           "imagen": "hYpZ6AFgc.jpg",
           "descripcion": "Comercial 2"
@@ -308,16 +376,36 @@
       "texto": "<p>Nuestros productos decorativos se destacan por su excelente diseño y funcionalidad. Son la mejor solución para desarrollar ambientes confortables en oficinas, hospitales, interiores comerciales y salones de clase, entre otros.</p><p>Sea cual se la necesidad del proyecto, ofrecemos soluciones versátiles y eficaces en la generación de ambientes agradables para vivir y trabajar.</p><p>En la galería de artículos para la Decoración de su Hogar o Negocio, usted puede adquirir diseños originales e innovadores en: Lámparas, Maceteros, Fuentes, Bancas, Mesas para Jardín, Mingitorios (en formas innovadoras) y Jaulas para aves entre otros muchos productos elaborados con el material de la más alta calidad.</p>", 
       "productos": [
         {
+          "imagen":"decorativos_1.jpg", 
+          "descripcion":"Minions"
+        }, 
+        {
+          "imagen":"decorativos_2.jpg", 
+          "descripcion":"Arbol"
+        }, 
+        {
+          "imagen":"decorativos_3.jpg", 
+          "descripcion":"Castillos romanos"
+        }, 
+        {
+          "imagen":"decorativos_4.jpg", 
+          "descripcion":"Ganchos"
+        }, 
+        {
+          "imagen":"decorativos_5.jpg", 
+          "descripcion":"Silla"
+        }, 
+        {
           "imagen": "uhy9kCDxz.jpg",
-          "descripcion": "Decorativo 2"
+          "descripcion": "Cocodrilo"
         },
         {
           "imagen": "hgN4DYPZA.jpg",
-          "descripcion": "Decorativo 3"
+          "descripcion": "Cheff"
         },
         {
           "imagen": "fFhefkCau.jpg",
-          "descripcion": "Decorativo 4"
+          "descripcion": "Pitufo"
         },
         {
           "imagen": "taHhAactX.jpg",
@@ -414,32 +502,36 @@
       "texto": "<p>Nuestros productos escolares son la perfecta combinación entre funcionalidad y estética, cubriendo por completo las necesidades de salones de clase, patios de escuela y áreas recreativas en guarderías, kinders y gimnasios infantiles, incluso en parques acuáticos.</p><p>Los productos escolares son una de nuestras especialidades, es por ello que usted podrá elegir entre una amplia variedad de figuras originales para depósitos de basura, pupitres en fibra de vidrio y base tubular, artículos personalizados con el logotipo de su empresa o institución, mesas de trabajo para comedor escolar, laboratorio de cómputo, área de patios: resbaladillas, juegos modulares, laberintos y carruseles.</p>", 
       "productos": [
         {
+          "imagen":"escolar_1.jpg", 
+          "descripcion":"Soldado"
+        }, 
+        {
+          "imagen":"escolar_2.jpg", 
+          "descripcion":"Botes varios"
+        }, 
+        {
+          "imagen":"escolar_3.jpg", 
+          "descripcion":"León"
+        }, 
+        {
+          "imagen":"escolar_4.jpg", 
+          "descripcion":"Juegos"
+        }, 
+        {
           "imagen": "SZU7quH6z.jpg",
-          "descripcion": "Escolar 1"
+          "descripcion": "Juegos mecánicos"
         },
         {
           "imagen": "z3NS94Ff2.jpg",
-          "descripcion": "Escolar 2"
-        },
-        {
-          "imagen": "UCNhpwfk3.jpg",
-          "descripcion": "Escolar 3"
-        },
-        {
-          "imagen": "scYAP957t.jpg",
-          "descripcion": "Escolar 4"
+          "descripcion": "Botes Yogi"
         },
         {
           "imagen": "hwhXSA2sb.jpg",
-          "descripcion": "Escolar 5"
+          "descripcion": "Juegos"
         },
         {
           "imagen": "rcZHXh2z9.jpg",
           "descripcion": "Techados para escuelas"
-        },
-        {
-          "imagen": "CEA3ycFkt.jpg",
-          "descripcion": "Botes decorados en aerografía"
         },
         {
           "imagen": "PSgYXfwC7.jpg",
