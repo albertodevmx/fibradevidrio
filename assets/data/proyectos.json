@@ -1,7 +1,7 @@
 {
     "proyectos" : [
         {
-            "id": "06", 
+            "id": "01", 
             "titulo": "KidZania",
             "title": "KidZania",
             "descripcion": "<p>En Ingeniería y Proyectos en Fibra de Vidrio, aplicamos PINTURA ELECTROSTÁTICA,para un acabado de primera y mayor durabilidad. Gracias KidZania por seguir confiando en Nosotros.</p>", 
@@ -35,123 +35,196 @@
         }, 
         {
             "id": "02", 
-            "titulo": "Proyecto 2",
-            "title": "Project 2",
-            "descripcion": "<p>Descripción Proyecto 2.</p>", 
-            "description": "<p>Project description 2.</p>", 
+            "titulo": "Hulk y Batman",
+            "title": "Hulk y Batman",
+            "descripcion": "<p>Así será la invasión verde, en Ingeniería y Proyectos en Fibra de Vidrio.<br><br><br></p>", 
+            "description": "<p>Project.</p>", 
             "fotos": [
                 {
-                    "imagen": "proyecto_especial_0001s_0003_Capa-38.png"
+                    "imagen":"pe_0005s_0000_Capa-47.png"
                 }, 
+
                 {
-                    "imagen": "proyecto_especial_0001s_0000_Capa-33.png"
+                    "imagen":"pe_0005s_0001_Capa-46.png"
                 }, 
+
                 {
-                    "imagen": "proyecto_especial_0001s_0001_Capa-35.png"
+                    "imagen":"pe_0005s_0002_Capa-45.png"
                 }, 
+
                 {
-                    "imagen": "proyecto_especial_0001s_0002_Capa-36.png"
-                }                
+                    "imagen":"pe_0005s_0003_Capa-44.png"
+                }, 
+
+                {
+                    "imagen":"pe_0005s_0004_Capa-43.png"
+                }, 
+
+                {
+                    "imagen":"pe_0005s_0005_Capa-42.png"
+                } 
             ]
         }, 
         {
-            "id": "03", 
-            "titulo": "Proyecto 3",
-            "title": "Project 3",
-            "descripcion": "<p>Descripción Proyecto 3.</p>", 
-            "description": "<p>Project description 3.</p>", 
+            "id": "11", 
+            "titulo": "Gabinetes",
+            "title": "Gabinetes",
+            "descripcion": "<p>Gabinetes en Fibra de Vidrio, materiales ignífugos, herrajes de acero inoxidable y acero con tratamiento de galvanizado por inmersión.</p>", 
+            "description": "<p>Gabinetes en Fibra de Vidrio, materiales ignífugos, herrajes de acero inoxidable y acero con tratamiento de galvanizado por inmersión.</p>", 
             "fotos": [
                 {
-                    "imagen": "proyecto_especial_0002s_0000_Capa-26.png"
+                    "imagen":"pe_0004s_0000_Capa-50.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0002s_0001_Capa-28.png"
+                    "imagen":"pe_0004s_0001_Capa-49.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0002s_0002_Capa-30.png"
+                    "imagen":"pe_0004s_0002_Capa-48.png"
+                }              
+            ]
+        }, 
+        {
+            "id": "12", 
+            "titulo": "Proyectos de Diseño",
+            "title": "Proyectos de Diseño",
+            "descripcion": "<p>Proyectos en fibra de vidrio sigue en crecimiento, aquí un poco de lo que viene.<br><br></p>", 
+            "description": "<p>Proyectos en fibra de vidrio sigue en crecimiento, aquí un poco de lo que viene.<br><br></p>", 
+            "fotos": [
+                {
+                    "imagen":"pe_0003s_0003_Capa-55.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0002s_0003_Capa-27.png"
+                    "imagen":"pe_0003s_0004_Capa-54.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0002s_0004_Capa-31.png"
+                    "imagen":"pe_0003s_0005_Capa-53.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0002s_0005_Capa-32.png"
+                    "imagen":"pe_0003s_0006_Capa-51.png"
+                }, 
+                {
+                    "imagen":"pe_0003s_0001_Capa-57.png"
+                }, 
+                {
+                    "imagen":"pe_0003s_0000_Capa-52.png"
                 }
             ]
         }, 
         {
-            "id": "04", 
-            "titulo": "Proyecto 4",
-            "title": "Project 4",
-            "descripcion": "<p>Descripción Proyecto 4.</p>", 
-            "description": "<p>Project description 4.</p>", 
+            "id": "13", 
+            "titulo": "Señalamiento maritimo",
+            "title": "Señalamiento maritimo",
+            "descripcion": "<p>Contamos con los equipos de soldadura más modernos, sistema MIG para realizar todo tipo de soldadura en Aluminio ( Equipo de señalamiento marítimo en placa y barra de aluminio).</p>", 
+            "description": "<p>Contamos con los equipos de soldadura más modernos, sistema MIG para realizar todo tipo de soldadura en Aluminio ( Equipo de señalamiento marítimo en placa y barra de aluminio).</p>", 
             "fotos": [
                 {
-                    "imagen":"proyecto_especial_0003s_0000_Capa-22.png"
+                    "imagen":"pe_0002s_0004_Capa-59.png"
                 }, 
                 {
-                    "imagen":"proyecto_especial_0003s_0001_Capa-24.png"
+                    "imagen":"pe_0002s_0003_Capa-60.png"
                 }, 
                 {
-                    "imagen":"proyecto_especial_0003s_0002_Capa-20.png"
+                    "imagen":"pe_0002s_0002_Capa-61.png"
                 }, 
                 {
-                    "imagen":"proyecto_especial_0003s_0003_Capa-23.png"
+                    "imagen":"pe_0002s_0001_Capa-63.png"
                 }, 
                 {
-                    "imagen":"proyecto_especial_0003s_0004_Capa-21.png"
-                }, 
-                {
-                    "imagen":"proyecto_especial_0003s_0005_Capa-25.png"
+                    "imagen":"pe_0002s_0000_Capa-58.png"
                 }
             ]
         }, 
         {
-            "id": "01", 
-            "titulo": "Proyecto 1",
-            "title": "Project 1",
-            "descripcion": "<p>Descripción Proyecto 1.</p>", 
-            "description": "<p>Project description 1.</p>", 
+            "id": "14", 
+            "titulo": "Diseño Industrial",
+            "title": "Diseño Industrial",
+            "descripcion": "<p>Proyectos de Diseño Industrial.<br><br><br></p>", 
+            "description": "<p>Proyectos de Diseño Industrial.<br><br><br></p>", 
             "fotos": [
                 {
-                    "imagen": "proyecto_especial_0000s_0000_Capa-40.png"
+                    "imagen":"pe_0001s_0007_Capa-64.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0000s_0001_Capa-41.png"
+                    "imagen":"pe_0001s_0006_Capa-65.png"
                 }, 
                 {
-                    "imagen": "proyecto_especial_0000s_0002_Capa-39.png"
+                    "imagen":"pe_0001s_0005_Capa-66.png"
+                }, 
+                {
+                    "imagen":"pe_0001s_0004_Capa-72.png"
+                }, 
+                {
+                    "imagen":"pe_0001s_0003_Capa-73.png"
+                }, 
+                {
+                    "imagen":"pe_0001s_0002_Capa-74.png"
+                }, 
+                {
+                    "imagen":"proyecto_especial_0004s_0005_Capa-14.png"
+                }, 
+                {
+                    "imagen":"proyecto_especial_0004s_0003_Capa-16.png"
+                }, 
+                {
+                    "imagen":"proyecto_especial_0004s_0001_Capa-18.png"
+                }, 
+                {
+                    "imagen":"pe_0001s_0001_Capa-75.png"
+                }, 
+                {
+                    "imagen":"pe_0001s_0000_Capa-76.png"
                 }
             ]
         }, 
         {
-            "id": "05", 
-            "titulo": "Proyecto 5",
-            "title": "Project 5",
-            "descripcion": "<p>Descripción Proyecto 5.</p>", 
-            "description": "<p>Project description 5.</p>", 
+            "id": "16", 
+            "titulo": "Escuela Naval Militar",
+            "title": "Escuela Naval Militar",
+            "descripcion": "<p>Trabajos de instalación Heroica Escuela Naval Militar.</p>", 
+            "description": "<p>Trabajos de instalación Heroica Escuela Naval Militar.</p>", 
             "fotos": [
                 {
-                    "imagen" : "proyecto_especial_0004s_0000_Capa-19.png"
+                    "imagen":"pe_0000s_0000_Capa-71.png"
                 }, 
                 {
-                    "imagen" : "proyecto_especial_0004s_0001_Capa-18.png"
+                    "imagen":"pe_0000s_0001_Capa-70.png"
                 }, 
                 {
-                    "imagen" : "proyecto_especial_0004s_0002_Capa-17.png"
+                    "imagen":"pe_0000s_0002_Capa-69.png"
                 }, 
                 {
-                    "imagen" : "proyecto_especial_0004s_0003_Capa-16.png"
+                    "imagen":"pe_0000s_0003_Capa-68.png"
                 }, 
                 {
-                    "imagen" : "proyecto_especial_0004s_0004_Capa-15.png"
+                    "imagen":"pe_0000s_0004_Capa-67.png"
+                }
+            ]
+        }, 
+        {
+            "id": "15", 
+            "titulo": "Kidzania",
+            "title": "Kidzania",
+            "descripcion": "<p>Felices entregando actividades recreativas de C.F.E.</p>", 
+            "description": "<p>Felices entregando actividades recreativas de C.F.E.</p>", 
+            "fotos": [
+                {
+                    "imagen":"cfe_0000s_0000_Capa-4.png"
                 }, 
                 {
-                    "imagen" : "proyecto_especial_0004s_0005_Capa-14.png"
+                    "imagen":"cfe_0000s_0001_Capa-5.png"
+                }, 
+                {
+                    "imagen":"cfe_0000s_0002_Capa-2.png"
+                }, 
+                {
+                    "imagen":"cfe_0000s_0003_Capa-1.png"
                 }
             ]
         }
+
+
+        
     ]
 }
+
+
