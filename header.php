@@ -140,7 +140,7 @@ else {
 
                                                 <i class="text-danger icon icon-call-phone"></i> (55) 5731-6223<br>
                                                 <i class="text-danger icon icon-mobile"></i> (55) 2334-2258<br>
-                                                <i class="text-danger icon icon-envelope"></i> cesar_3r@hotmail.com
+                                                <i class="text-danger icon icon-envelope"></i> ipfv.ventas@gmail.com
                                         <?php } else { ?>
                                         
                                                 <i class="text-danger icon icon-map-marker"></i> Vicente Villada Avenue No. 481,  
@@ -149,7 +149,7 @@ else {
 
                                                 <i class="text-danger icon icon-call-phone"></i> (55) 5731-6223<br>
                                                 <i class="text-danger icon icon-mobile"></i> (55) 2334-2258<br>
-                                                <i class="text-danger icon icon-envelope"></i> cesar_3r@hotmail.com
+                                                <i class="text-danger icon icon-envelope"></i> ipfv.ventas@gmail.com
 
                                         <?php } ?>
                                 </p>
